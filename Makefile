@@ -1,5 +1,4 @@
-SRC = 	src/base/common.c				\
-		src/base/sort.c					\
+SRC = 	src/base/sort.c					\
 		src/base/fixed_queue.c			\
 		src/os/thread.c					\
 		src/os/cond_variable.c			\
